@@ -165,8 +165,8 @@ h1,h2,h3,p{
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .4);
 }
 
-.btn--white,
-.navbar--white {
+.btn--orange,
+.navbar--orange {
     background-color: rgb(197, 59, 9);
     color: white;
 }
@@ -186,8 +186,8 @@ h1,h2,h3,p{
 
 }
 
-.btn--white::after,
-.navbar--white::after {
+.btn--orange::after,
+.navbar--orange::after {
     background-color: rgb(241, 125, 16);
 }
 
@@ -305,8 +305,7 @@ footer div{
        margin-right:  50%;
    }
    footer{
-       min-width: 100vw;
-   }
+       min-width: 100vworange
        
 
 }
